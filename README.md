@@ -22,3 +22,7 @@ This project detects driver drowsiness in real time using OpenCV and deep learni
    cd drowsiness-detection
 
 pip install -r requirements.txt
+
+
+python drowsiness_detection.py
+
